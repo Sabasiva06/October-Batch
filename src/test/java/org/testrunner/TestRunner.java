@@ -13,11 +13,17 @@ import cucumber.api.junit.Cucumber;
 				"junit:D:\\SampleCucumberLive\\target\\report.xml" }, tags = { "~@E2E" })
 public class TestRunner {
 
+	private void sysout() {
+		System.out.println("framework");
+		System.out.println("framework");
+		System.out.println("framework");
+
+	}
+
 	private void add() {
 		System.out.println("add");
 		System.out.println("summ");
 		System.out.println("selenium");
-
 	}
-
+	
 }
