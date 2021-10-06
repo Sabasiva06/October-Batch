@@ -17,6 +17,13 @@ public class TestRunner {
 		System.out.println("framework");
 		System.out.println("framework");
 		System.out.println("framework");
+
 	}
 
+	private void add() {
+		System.out.println("add");
+		System.out.println("summ");
+		System.out.println("selenium");
+	}
+	
 }
